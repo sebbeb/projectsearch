@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { ProductListing } from "./ProductListing";
-import "./globals.css";
 import { Search } from "./Search";
 
 export function Home({ products }) {
